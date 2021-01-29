@@ -3,3 +3,5 @@ def silnia(x):
     for i in range(x):
         b*=i+1
     return b
+def suma(x)
+    return x
